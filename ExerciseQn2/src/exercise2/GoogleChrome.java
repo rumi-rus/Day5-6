@@ -1,6 +1,6 @@
 package exercise2;
 
-public class GoogleChrome extends BrowserS {
+public class GoogleChrome extends Browser {
 GoogleChrome(String urlInit){
 	super(urlInit);
 	number++;

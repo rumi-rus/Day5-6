@@ -2,11 +2,11 @@ package exercise2;
 
 import java.util.ArrayList;
 
-public class BrowserS {
+public class Browser {
 	ArrayList url= new ArrayList<String>();
     
-    BrowserS(){  }
-    BrowserS(String urlInit){
+    Browser(){  }
+    Browser(String urlInit){
     	url.add(urlInit);
     }
     
